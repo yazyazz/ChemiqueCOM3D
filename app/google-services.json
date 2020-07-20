@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "31897462663",
+    "firebase_url": "https://c3dv-2c53e.firebaseio.com",
+    "project_id": "c3dv-2c53e",
+    "storage_bucket": "c3dv-2c53e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31897462663:android:393a566af51c5964d61522",
+        "android_client_info": {
+          "package_name": "com.app.chemique"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31897462663-qg8qds9t240svvv4idfl757laq6dcdff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRzXBh116PeIChbWIUSf1xXyDTLszwCsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31897462663-qg8qds9t240svvv4idfl757laq6dcdff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31897462663:android:8f74917e67a84586d61522",
+        "android_client_info": {
+          "package_name": "com.chemique.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31897462663-5f55m919qq907jic2hofc78f2necksk8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chemique.app",
+            "certificate_hash": "ae6c7bfb669d2dbccbad478b7efe936b41bb838c"
+          }
+        },
+        {
+          "client_id": "31897462663-qg8qds9t240svvv4idfl757laq6dcdff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRzXBh116PeIChbWIUSf1xXyDTLszwCsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31897462663-qg8qds9t240svvv4idfl757laq6dcdff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31897462663:android:7fa3155c99842444d61522",
+        "android_client_info": {
+          "package_name": "com.example.c3dv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31897462663-aq3at2ajvnfk40ck5v1sqajlc0n6ua5f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.c3dv",
+            "certificate_hash": "5276da98e8fc64bca2b118f4cf5bf2cdefc64296"
+          }
+        },
+        {
+          "client_id": "31897462663-qg8qds9t240svvv4idfl757laq6dcdff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRzXBh116PeIChbWIUSf1xXyDTLszwCsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31897462663-qg8qds9t240svvv4idfl757laq6dcdff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

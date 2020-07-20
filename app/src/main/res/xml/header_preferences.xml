@@ -1,0 +1,52 @@
+<androidx.preference.PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <Preference
+        app:fragment="com.chemique.app.Settings$AccSettingsFragment"
+        app:iconSpaceReserved="false"
+        app:key="accset_header"
+        app:summary="@string/accset_summary"
+        app:title="@string/accset_header" />
+
+    <Preference
+        app:fragment="com.chemique.app.Settings$DataFragment"
+        app:iconSpaceReserved="false"
+        app:key="data_header"
+        app:summary="@string/data_summary"
+        app:title="@string/data_header" />
+
+    <Preference
+        app:fragment="com.chemique.app.Settings$GraphicsFragment"
+        app:iconSpaceReserved="false"
+        app:key="graphics_header"
+        app:summary="@string/graphics_summary"
+        app:title="@string/graphics_header" />
+
+    <Preference
+        app:fragment="com.chemique.app.Settings$LanguageFragment"
+        app:iconSpaceReserved="false"
+        app:key="language_header"
+        app:summary="@string/language_summary"
+        app:title="@string/language_header" />
+
+    <Preference
+        app:fragment="com.chemique.app.Settings$NotificationsFragment"
+        app:iconSpaceReserved="false"
+        app:key="notifications_header"
+        app:summary="@string/notifications_summary"
+        app:title="@string/notifications_header" />
+
+    <Preference
+        app:fragment="com.chemique.app.Settings$SVFragment"
+        app:iconSpaceReserved="false"
+        app:key="sv_header"
+        app:summary="@string/sv_summary"
+        app:title="@string/sv_header" />
+
+    <Preference
+        app:fragment="com.chemique.app.Settings$ThemeFragment"
+        app:iconSpaceReserved="false"
+        app:key="theme_header"
+        app:summary="@string/theme_summary"
+        app:title="@string/theme_header" />
+
+</androidx.preference.PreferenceScreen>
