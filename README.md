@@ -5,7 +5,7 @@ An android application that allows the user to perform basic chemical bonding, i
 ## Application Screenshots
 
 ![alt Image00](./img/ch1.png)
-g
+
 ![alt Image00](./img/ch2.png)
 
 ![alt Image00](./img/ch3.png)
